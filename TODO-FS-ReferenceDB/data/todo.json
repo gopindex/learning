@@ -1,0 +1,17 @@
+[
+    {
+        "Email": "abc@gmail.com",
+        "Name": "abc",
+        "user_id" : "583c642-02d0-4ab1-ba9f-a",
+    },
+    {
+        "Email": "xyz@gmail.com",
+        "Name": "xyz",
+        "user_id" : "583c642-02d0-4ab1-ba9f-a",
+    },
+    {
+        "Email": "aagam@gmail.com",
+        "Name": "aagam",
+        "user_id" : "583c642-02d0-4ab1-ba9f-a",
+    }
+]

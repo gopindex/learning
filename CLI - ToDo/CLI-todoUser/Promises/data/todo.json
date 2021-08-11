@@ -1,0 +1,22 @@
+[
+    {
+        "Email": "asmasimreen@gmail.com",
+        "Name": "Asma Simreen",
+        "Todos": [
+            {
+                "id": "8d0db571-305d-466d-ad0e-56fa40d430a0",
+                "task": "Maintain Punctuality"
+            }
+        ]
+    },
+    {
+        "Email": "asma@gmail.com",
+        "Name": "Asma1",
+        "Todos": []
+    },
+    {
+        "Email": "Sim@gmail.com",
+        "Name": "Sim",
+        "Todos": []
+    }
+]

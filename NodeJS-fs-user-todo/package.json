@@ -1,0 +1,25 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "readline-sync": "^1.4.10",
+    "uuid": "^8.3.2",
+    "uuid-timestamp": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AagamGada/Hackathon-CLI-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AagamGada/Hackathon-CLI-App/issues"
+  },
+  "homepage": "https://github.com/AagamGada/Hackathon-CLI-App#readme"
+}
